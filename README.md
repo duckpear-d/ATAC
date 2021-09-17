@@ -1,8 +1,8 @@
 # ATAC
 ATAC-analysis
 
-1.ATAC_gene_avr_max.r=
-
+1.ATAC_gene_avr_max.r
+=
 Required:
 	R
 
