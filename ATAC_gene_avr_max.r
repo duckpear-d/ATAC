@@ -1,3 +1,6 @@
+#After Chipseeker analysis you can get a file included "seqnames","start","V4","annotation","SYMBOL".
+#This R file provide average and max value of the gene annotated to different regions.
+#You can choose promoter regions or the whole gene body regions include promoter(<=2kb), downstream(<=2kb),Intro,Exon,3'UTR,5'UTR
 library(dplyr)
 library(stringr)
 
