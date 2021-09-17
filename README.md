@@ -1,12 +1,13 @@
 # ATAC
 ATAC-analysis
 
-1.ATAC_gene_avr_max.r
+1.ATAC_gene_avr_max.r=
 
 Required:
 	R
 
 Usage:
+
 Rscript ATAC_gene_avr_max.r input_file region output_file
 	input_file:the result provided by Chipseeker
 		format(5 columns):"seqnames","start","V4","annotation","SYMBOL"
