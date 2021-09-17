@@ -15,3 +15,4 @@ Rscript ATAC_gene_avr_max.r input_file region output_file
 		format:"promoter","genebody"
 	output_file:average and max value of genes
 	
+asdasd 
